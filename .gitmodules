@@ -8,3 +8,8 @@
 	url = https://github.com/brianaronson/birankr
 	shallow = true
 	registered = true
+[submodule "easyPSID"]
+	path = easyPSID
+	url = https://github.com/cran/easyPSID
+	shallow = true
+	registered = true
