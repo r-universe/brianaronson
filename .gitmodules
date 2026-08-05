@@ -7,4 +7,4 @@
 	url = https://github.com/brianaronson/birankr
 [submodule "easyPSID"]
 	path = easyPSID
-	url = https://github.com/cran/easyPSID
+	url = https://github.com/brianaronson/easypsid
